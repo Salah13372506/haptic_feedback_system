@@ -250,6 +250,7 @@ La carte PCB a été conçue pour gérer 6 moteurs haptiques de type LRA. Elle i
 - Le multiplexeur permet de gérer les 6 drivers avec une seule paire de lignes I2C
 
 ![image](https://github.com/user-attachments/assets/6659c939-70c5-4f29-9acb-38315914d734)
+![image](https://github.com/user-attachments/assets/ee2448f7-97e9-4d0e-83f1-e2261169bead)
 
 
 
@@ -273,9 +274,39 @@ La carte PCB a été conçue pour gérer 6 moteurs haptiques de type LRA. Elle i
 
 ## Partie Mécanique
 
-- [Fichiers CAO](lien_a_venir)
-- [Fichiers STL](lien_a_venir)
-- [Instructions d'assemblage](lien_a_venir)
+Le système comporte plusieurs pièces imprimées en 3D, chacune ayant une fonction spécifique :
+
+### 1. Support Principal
+- Pièce servant de base au système
+- Conçue avec un système de clips pour maintenir la PCB
+- Intègre un couvercle arrière pour protéger l'électronique
+- Dimensions optimisées pour s'adapter à la PCB et au boîtier de la caméra
+
+![image](https://github.com/user-attachments/assets/651263d2-5161-43fb-8e46-f35fd7bd948e)
+
+### 2. Support Moteur et Driver (Prototype)
+- Prototype initial permettant d'accueillir :
+  - Le moteur LRA
+  - Son driver DRV2605
+  - Les connexions nécessaires
+- Bien que non utilisé dans la version finale, ce design reste pertinent pour des tests unitaires ou des prototypes
+
+![image](https://github.com/user-attachments/assets/2c4c2f67-6ed1-4ed1-9ad1-a90cf950a989)
+![image](https://github.com/user-attachments/assets/f685b6a9-2f8d-4834-818a-eff6cb87fe1f)
+
+
+### 3. Support Moteur Simple
+- Version optimisée pour maintenir uniquement le moteur LRA
+- Design minimaliste pour réduire l'encombrement
+- Système de fixation sécurisé pour le moteur
+- Adapté pour l'intégration dans le système final
+
+![image](https://github.com/user-attachments/assets/c0f505d1-bf51-4839-88c3-2889e982cc81)
+![image](https://github.com/user-attachments/assets/fef0ad0b-dc84-4f96-9e60-2b317578e54c)
+
+
+*Note : Tous les fichiers STL et les sources CAO sont disponibles dans le dossier `CAO/` du projet*
+
 
 ## Documentation Utilisateur
 
