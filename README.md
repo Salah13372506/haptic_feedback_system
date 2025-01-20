@@ -252,6 +252,7 @@ La carte PCB a été conçue pour gérer 6 moteurs haptiques de type LRA. Elle i
 ![image](https://github.com/user-attachments/assets/6659c939-70c5-4f29-9acb-38315914d734)
 ![image](https://github.com/user-attachments/assets/ee2448f7-97e9-4d0e-83f1-e2261169bead)
 
+*Note : Tous les fichiers liés à la PCB sont disponibles dans le dossier `PCB_designing/` du projet*
 
 
 ### Configuration WiFi Arduino
