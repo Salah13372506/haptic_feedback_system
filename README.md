@@ -229,9 +229,28 @@ ros2 topic pub /haptic_side haptic_control_interfaces/msg/SideCommand "{side: 1}
   - Condensateurs de découplage
   - Résistances pull-up
   - Connecteurs moteurs
-### Carte PCB 
+
+### Carte PCB
+
+La carte PCB a été conçue pour gérer 6 moteurs haptiques de type LRA. Elle intègre les composants suivants :
+
+#### Composants Principaux
+- 1x Arduino MKR WiFi 1010 (microcontrôleur principal)
+- 6x Drivers DRV2605 (contrôle des moteurs LRA)
+- 1x Multiplexeur I2C TCA9548A (gestion des multiples drivers)
+- 6x Connecteurs JST femelles (connexion des moteurs)
+
+#### Connexions
+- Chaque moteur se connecte via un connecteur JST 2 pins pour :
+  - VCC (alimentation)
+  - GND (masse)
+
+#### Communication
+- Bus I2C distribué via le multiplexeur
+- Le multiplexeur permet de gérer les 6 drivers avec une seule paire de lignes I2C
 
 ![image](https://github.com/user-attachments/assets/6659c939-70c5-4f29-9acb-38315914d734)
+
 
 
 ### Configuration WiFi Arduino
