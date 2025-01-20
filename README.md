@@ -229,6 +229,10 @@ ros2 topic pub /haptic_side haptic_control_interfaces/msg/SideCommand "{side: 1}
   - Condensateurs de découplage
   - Résistances pull-up
   - Connecteurs moteurs
+### Carte PCB 
+
+![image](https://github.com/user-attachments/assets/6659c939-70c5-4f29-9acb-38315914d734)
+
 
 ### Configuration WiFi Arduino
 - Mode: Point d'accès (AP)
