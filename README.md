@@ -306,8 +306,7 @@ Le système comporte plusieurs pièces imprimées en 3D, chacune ayant une fonct
 ![image](https://github.com/user-attachments/assets/fef0ad0b-dc84-4f96-9e60-2b317578e54c)
 
 
-*Note : Tous les fichiers STL et les sources CAO sont disponibles dans le dossier `CAO/` du projet*
-
+*Note : Tous les fichiers STL et les sources CAO sont disponibles dans le dossier `Solidworks/` du projet*
 
 ## Documentation Utilisateur
 
@@ -330,11 +329,8 @@ Le système comporte plusieurs pièces imprimées en 3D, chacune ayant une fonct
 - Vérifier les connexions des moteurs
 - Utiliser le moniteur série pour voir les messages d'initialisation
 
-## License
-[À définir]
-
 ## Contact
-Pour toute question sur ce projet, contactez les auteurs via Sorbonne Université.
+Pour toute question sur ce projet, contactez les auteurs via LinkedIn.
 
 ## Auteurs et Remerciements
 
