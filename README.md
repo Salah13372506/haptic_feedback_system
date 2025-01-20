@@ -2,8 +2,12 @@
 
 ## Description du Projet
 
-Projet réalisé dans le cadre du Master MSR (Master Sciences et Robotique) - Sorbonne Université.
-Ce système d'assistance à la navigation utilise la vision par ordinateur et le retour haptique pour aider à la détection d'obstacles.
+Projet réalisé dans le cadre du Master Systems for Rehabilitation (MSR) - Sorbonne Université.
+
+Ce système d'assistance innovant a été conçu pour aider les personnes non-voyantes dans leur déplacement quotidien. Il combine la vision par ordinateur et le retour haptique pour détecter les obstacles et communiquer leur position à l'utilisateur via des vibrations. Développé initialement comme un système d'évitement d'obstacles, le projet a le potentiel d'évoluer vers une solution complète de navigation assistée.
+Le système utilise une caméra de profondeur OAK-D pour détecter les obstacles et transmet l'information via des moteurs vibrants positionnés de manière ergonomique, permettant à l'utilisateur de percevoir intuitivement la direction des obstacles et de choisir un chemin sûr.
+Ce projet s'inscrit dans une démarche d'innovation technologique au service de l'autonomie des personnes en situation de handicap visuel.
+
 
 ## Table des Matières
 
