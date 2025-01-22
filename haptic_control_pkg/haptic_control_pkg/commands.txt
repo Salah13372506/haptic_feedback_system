@@ -1,0 +1,8 @@
+ros2 topic pub /haptic_commands haptic_control_interfaces/msg/HapticCommand "{motor_id: 2, waveform: 56, activate: true, intensity: 0.8}"
+
+ros2 topic pub /haptic_commands haptic_control_interfaces/msg/HapticCommand "{motor_id: 2, waveform: 0, activate: false, intensity: 0.0}"
+
+
+ros2 topic pub --once /haptic_commands haptic_control_interfaces/msg/HapticCommand "{motor_id: 3, waveform: 75, activate: true, intensity: 0.5}"
+
+
