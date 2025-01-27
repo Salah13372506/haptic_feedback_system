@@ -8,6 +8,11 @@ Ce système d'assistance innovant a été conçu pour aider les personnes non-vo
 Le système utilise une caméra de profondeur OAK-D pour détecter les obstacles et transmet l'information via des moteurs vibrants positionnés de manière ergonomique, permettant à l'utilisateur de percevoir intuitivement la direction des obstacles et de choisir un chemin sûr.
 Ce projet s'inscrit dans une démarche d'innovation technologique au service de l'autonomie des personnes en situation de handicap visuel.
 
+![image](https://github.com/user-attachments/assets/4a341eb2-9c87-4871-bae4-6df00adad622)
+
+![image](https://github.com/user-attachments/assets/3d561fe4-55d5-4577-99b6-d30c16daa85f)
+![image](https://github.com/user-attachments/assets/2ae4a0a7-4f23-4424-a05e-9986c4e1fdb9)
+
 
 ## Table des Matières
 
